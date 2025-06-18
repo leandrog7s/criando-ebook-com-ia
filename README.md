@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src=".assets/capa01.png"
+    src="https://github.com/leandrog7s/criando-ebook-com-ia/blob/main/assets/capa01.png"
     width="400"  
 />
 </p>
